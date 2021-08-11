@@ -78,8 +78,6 @@ body * {
   margin: 25px 0 55px 25px;
 }
 
-
-
 .intro-main-page {
   background-image: url(../assets/images/backgrd-img.jpg);
   background-size: 100% 100%;
@@ -491,15 +489,14 @@ body * {
   }
 
   .intro-main-page {
-    /*background-image: url(../assets/images/main-bg.jpg);*/
     background-size: 100% 100%;
     background-repeat: no-repeat;
     width: 100%;
     padding: 0 10%;
   }
 
-  .intro-main-page
-   .description {
+  .intro-main-page,
+  .description {
     border: solid white;
     background-color: #d3d3d3;
     width: 80%;
