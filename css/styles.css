@@ -310,7 +310,7 @@ body * {
 }
 
 .partners {
-  background-color: #272a31;
+  background-color: #282b31;
   text-align: center;
 }
 
@@ -418,8 +418,6 @@ body * {
   .fa-bars {
     display: none;
   }
-
-  /* Navbar styles */
 
   .navbar {
     display: flex;

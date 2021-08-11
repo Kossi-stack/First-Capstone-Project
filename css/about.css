@@ -207,7 +207,7 @@ h3 {
 }
 
 .partners {
-  background-color: #272a31;
+  background-color: #282b31;
   text-align: center;
 }
 
@@ -363,8 +363,6 @@ h3 {
   .navlist .nav-item:not(:last-child) {
     margin-right: 10px;
   }
-
-  /* Main section styline */
 
   .intro-main-page {
     background-image: url(../assets/images/secd-bgrd-img.jpg);
