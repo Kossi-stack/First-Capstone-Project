@@ -79,7 +79,7 @@ body * {
 }
 
 .intro-main-page {
-  background-image: url(../assets/images/backgrd-img.jpg);
+  background-image: url(../assets/images/first-bckgrd-img.jpg);
   background-size: 100% 100%;
   background-repeat: no-repeat;
   width: 100%;
@@ -208,8 +208,6 @@ body * {
   opacity: 1;
   margin-right: 10px;
 }
-
-/* Featured Program Section */
 
 .featured-speakers {
   font-family: sans-serif;
@@ -356,7 +354,6 @@ body * {
 }
 
 @media all and (min-width: 768px) {
-  /* App top links styles */
 
   body {
     font-family: sans-serif;
@@ -496,6 +493,7 @@ body * {
   }
 
   .intro-main-page {
+    background-image: url(../assets/images/first-bckgrd-img.jpg);
     background-size: 100% 100%;
     background-repeat: no-repeat;
     width: 100%;
@@ -506,12 +504,10 @@ body * {
   .description {
     border: solid white;
     background-color: #d3d3d3;
-    width: 80%;
-    padding: 30px;
+    width: 100%;
     color: #272a31;
     font-family: sans-serif;
     font-weight: 700;
-    margin-top: 20px;
   }
 
   .day-time {
