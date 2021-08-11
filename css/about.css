@@ -53,7 +53,7 @@ h3 {
 }
 
 .email a {
-  color: #0e0f13;
+  color: rgb(243, 172, 86);
 }
 
 .show .navlist li a {
@@ -62,8 +62,8 @@ h3 {
   font-size: 1.5rem;
 }
 
-.intro-main {
-  background-image: url(../assets/images/home_mobile.png);
+.intro-main-page {
+  background-image: url(../assets/images/secd-bgrd-img.jpg);
   background-size: 100% 100%;
 }
 
@@ -106,8 +106,8 @@ h3 {
 .contact {
   padding: 0 15% 20px;
   text-align: center;
-  font-size: 0.7rem;
-  color: #545964;
+  font-size: 1.2rem;
+  color: rgb(243, 172, 86);
 }
 
 .our-logo .creative {
@@ -124,7 +124,8 @@ h3 {
 }
 
 .logo-description {
-  font-size: 0.7rem;
+  font-size: 0.9rem;
+  font-weight: 200;
   text-align: center;
   margin: auto 15%;
   color: #545964;
@@ -165,7 +166,7 @@ h3 {
 }
 
 .take-a-look {
-  font-size: 0.6rem;
+  font-size: 1.05rem;
   margin-bottom: 10px;
 }
 
@@ -181,7 +182,7 @@ h3 {
 }
 
 .summit2 {
-  background-image: url(../assets/images/summit2.jpg);
+  background-image: url(../assets/images/summit1.jpg);
   background-size: 100% 100%;
   height: 150px;
 }
@@ -305,6 +306,7 @@ h3 {
   .navlist a {
     text-decoration: none;
     color: #272a31;
+    padding: 6px;
   }
 
   .top li a {
@@ -326,19 +328,16 @@ h3 {
     margin-right: 20px;
   }
 
-  /* Navbar styles */
-
   .navbar {
     display: flex;
-    padding: 20px 15%;
+    padding: 12px 6%;
     justify-content: space-between;
     align-items: center;
     background-color: white;
-    position: relative;
-    position: sticky;
+    position: static;
     top: 0;
-    box-shadow: 0 5px 10px #272a31;
-    z-index: 10;
+    box-shadow: 0 3px 5px #272a31;
+    z-index: 8;
   }
 
   .navbar .navlist {
@@ -347,7 +346,7 @@ h3 {
     justify-content: space-between;
     margin: 0;
     padding: 0;
-    width: 70%;
+    width: 80%;
     font-size: 1.2rem;
   }
 
@@ -361,8 +360,8 @@ h3 {
 
   /* Main section styline */
 
-  .intro-main {
-    background-image: url(../assets/images/home_desktop.png);
+  .intro-main-page {
+    background-image: url(../assets/images/secd-bgrd-img.jpg);
     background-size: 100% 100%;
     background-repeat: no-repeat;
     width: 100%;
@@ -376,7 +375,7 @@ h3 {
   .welcome2 {
     font-size: 3rem;
     margin-top: 5px;
-    font-weight: 600;
+    font-weight: 500;
     font-family: "COCOGOOSE", sans-serif;
   }
 
@@ -403,25 +402,6 @@ h3 {
     line-height: 1.5;
   }
 
-  .location {
-    display: flex;
-    justify-content: flex-end;
-  }
-
-  .location-items {
-    list-style-type: none;
-    display: flex;
-  }
-
-  .navlist .nav-item a:hover {
-    color: #ec5242;
-  }
-
-  .location-items .location-item:first-child a {
-    text-decoration: none;
-    color: #545964;
-  }
-
   .navlist .nav-item:last-child {
     box-sizing: border-box;
     padding: 5px;
@@ -437,15 +417,7 @@ h3 {
     color: #ec5242;
   }
 
-  .location-items .location-item:not(:last-child) {
-    margin-right: 20px;
-  }
-
-  .location-items .location-item:not(:last-child):not(:first-child) {
-    color: #ec5242;
-  }
-
-  .main .intro-main {
+  .main .intro-main-page {
     width: 100%;
   }
 
@@ -484,15 +456,16 @@ h3 {
   }
 
   .past-summit .short-underline {
-    width: 50px;
-    height: 3px;
+    width: 60px;
+    height: 5px;
     background-color: #ec5242;
     border: none;
     margin: 20px auto;
   }
 
   .past-summit .take-a-look {
-    font-size: 1rem;
+    font-size: 1.5rem;
+    font-weight: 200;
   }
 
   .summits {
@@ -530,7 +503,7 @@ h3 {
     margin-left: 30px;
   }
 
-  .intro-main .description {
+  .intro-main-page .description {
     border: solid white;
     background-color: #d3d3d3;
     width: 80%;
