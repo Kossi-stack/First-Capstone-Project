@@ -371,6 +371,7 @@ body * {
     justify-content: flex-end;
     align-items: center;
     padding: 5px 10%;
+    gap: 10px;
   }
 
   .top a {
@@ -378,6 +379,12 @@ body * {
     color: #fff;
     font-size: 1.5rem;
   }
+
+  .top a:hover {
+    color: #ec5242ff;
+    font-size: 1.2rem;
+  }
+
 
   .navlist a {
     text-decoration: none;
@@ -426,7 +433,7 @@ body * {
     position: relative;
     position: sticky;
     top: 0;
-    box-shadow: 0 5px 10px #272a31;
+    box-shadow: 0 2px 2px #272a31;
     z-index: 10;
   }
 

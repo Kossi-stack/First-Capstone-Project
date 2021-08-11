@@ -295,12 +295,18 @@ h3 {
     justify-content: flex-end;
     align-items: center;
     padding: 5px 15%;
+    gap: 10px;
   }
 
   .top a {
     text-decoration: none;
     color: #fff;
     font-size: 1.5rem;
+  }
+
+  .top a:hover {
+    color: #ec5242ff;
+    font-size: 1.2rem;
   }
 
   .navlist a {
