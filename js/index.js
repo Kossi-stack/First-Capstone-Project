@@ -5,7 +5,7 @@ const speakers = [
       'Brerkman Professor of Entrepreneurial Legal Studies at Harvard Law School',
     about:
       'Benkler studies commons-based peer productionk, and published his serminal book The Wealth of Networks in 2006',
-    avatarURL: './assets/images/profile.jpg',
+    avatarURL: './assets/images/speaker1.png',
   },
   {
     name: 'Kossi Fioklou',
@@ -13,7 +13,7 @@ const speakers = [
       'Brerkman Professor of Entrepreneurial Legal Studies at Harvard Law School',
     about:
       'Benkler studies commons-based peer productionk, and published his serminal book The Wealth of Networks in 2006',
-    avatarURL: './assets/images/profile.jpg',
+    avatarURL: './assets/images/speaker2.png',
   },
   {
     name: 'Adedamola Shittu',
@@ -21,7 +21,7 @@ const speakers = [
       'Brerkman Professor of Entrepreneurial Legal Studies at Harvard Law School',
     about:
       'Benkler studies commons-based peer productionk, and published his serminal book The Wealth of Networks in 2006',
-    avatarURL: './assets/images/profile.jpg',
+    avatarURL: './assets/images/speaker3.png',
   },
   {
     name: 'Lilian Moraa',
@@ -29,7 +29,7 @@ const speakers = [
       'Brerkman Professor of Entrepreneurial Legal Studies at Harvard Law School',
     about:
       'Benkler studies commons-based peer productionk, and published his serminal book The Wealth of Networks in 2006',
-    avatarURL: './assets/images/profile.jpg',
+    avatarURL: './assets/images/speaker4.png',
   },
   {
     name: 'Ali Abbani',
@@ -37,7 +37,7 @@ const speakers = [
       'Brerkman Professor of Entrepreneurial Legal Studies at Harvard Law School',
     about:
       'Benkler studies commons-based peer productionk, and published his serminal book The Wealth of Networks in 2006',
-    avatarURL: './assets/images/profile.jpg',
+    avatarURL: './assets/images/speaker5.png',
   },
   {
     name: 'Daniel Matongo',
@@ -45,7 +45,7 @@ const speakers = [
       'Brerkman Professor of Entrepreneurial Legal Studies at Harvard Law School',
     about:
       'Benkler studies commons-based peer productionk, and published his serminal book The Wealth of Networks in 2006',
-    avatarURL: './assets/images/profile.jpg',
+    avatarURL: './assets/images/speaker6.png',
   },
   {
     name: 'Ifionu Juliana',
