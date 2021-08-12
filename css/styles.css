@@ -102,7 +102,7 @@ body * {
   font-size: 1.8rem;
   line-height: 1;
   font-weight: 600;
-  font-family: "COCOGOOSE", sans-serif;
+  font-family: "Lato", sans-serif;
 }
 
 .intro-main-page .description {
@@ -114,7 +114,7 @@ body * {
 }
 
 .day-time {
-  font-family: "COCOGOOSE", sans-serif;
+  font-family: "Lato", sans-serif;
   color: #272a31;
   font-size: 1.5rem;
   margin-bottom: 0;
@@ -354,7 +354,6 @@ body * {
 }
 
 @media all and (min-width: 768px) {
-
   body {
     font-family: sans-serif;
   }
@@ -371,24 +370,6 @@ body * {
     gap: 10px;
   }
 
-  .top a {
-    text-decoration: none;
-    color: #fff;
-    font-size: 1.5rem;
-  }
-
-  .top a:hover {
-    color: #ec5242ff;
-    font-size: 1.2rem;
-  }
-
-
-  .navlist a {
-    text-decoration: none;
-    color: #272a31;
-    font-family: sans-serif;
-  }
-
   .whole-program a {
     text-decoration: underline;
     font-family: sans-serif;
@@ -396,8 +377,25 @@ body * {
     color: #ec5242ff;
   }
 
+  .top a {
+    text-decoration: none;
+    color: #fff;
+    font-size: 1.5rem;
+  }
+
+  .navlist a {
+    text-decoration: none;
+    color: #272a31;
+    font-family: sans-serif;
+  }
+
   .top li a {
     font-size: 1.1rem;
+  }
+
+  .top a:hover {
+    color: #ec5242ff;
+    font-size: 1.2rem;
   }
 
   .logo {
@@ -405,10 +403,6 @@ body * {
     width: 80px;
     height: 80px;
     border-radius: 100%;
-  }
-
-  .top .top-item:not(:last-child) {
-    margin: 0 10px;
   }
 
   .top .fa-twitter {
@@ -610,8 +604,6 @@ body * {
     opacity: 1;
   }
 
-  /* Featured Program Section */
-
   .speakers {
     margin: 30px 14%;
     display: flex;
@@ -633,7 +625,7 @@ body * {
   .featured-speakers {
     font-family: sans-serif;
     margin: 80px 0;
-    font-size: 1.3rem;
+    font-size: 1.5rem;
   }
 
   .featured-speakers .heading {

@@ -1,13 +1,13 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Mobile_Version_Skeleton
+# First-Capstone-Project
 
-> This project is to create a mobile version skeleton using Figma template.
+> This project is to create a mobile and desktop version of an  online conference website.
 
-![screenshot](assets/desktopv.JPG)
+![screenshot](assets/images/demo-mobile.JPG)
+![screenshot](assets/images/demo-desktop.JPG)
 
-This project is to create a mobile version skeleton using Figma template
-It is a web page that contains three sections in the first section we have a header, the main page, the second section contains works page, about page, and the last section contains a contact form and CSS to style it. I added index.html file and style.css file, test.md file, and test.md file to .gitignore file.
+This is a capstone project to showcase the skills acquired the last 4 weeks studying HTML, CSS and DOM. The project is online conference website.
 
 ## Live Demo
 
@@ -17,6 +17,7 @@ It is a web page that contains three sections in the first section we have a hea
 
 - Html
 - Css
+- Javascript
 
 ##  Prerequisites
 
@@ -29,14 +30,23 @@ It is a web page that contains three sections in the first section we have a hea
 
 To get a local copy up and running follow these simple example steps.
 
-- You can clone this repo by typing git clone `https://github.com/Kossi-stack/Mobile_Version_Skeleton.git` on your terminal
-- Type cd `Mobile_Version_Skeleton` to access the project on the terminal
+- You can clone this repo by typing git clone `https://github.com/Kossi-stack/First-Capstone-Project.git` on your terminal
+
+- Type cd `First-Capstone-Project` to access the project on the terminal
+
+Run `npm install` from the command line
+
+Run `npx hint .` to test for html linting check
+
+Run `npx stylelint "**/*.{css,scss}"` to test for css linting check 
+
+Run `npx eslint .` to test for js linting check
 
 ## Author
 
 👤 **Kossi-Stack**
 
-- GitHub: [@githubhandle](https://github.com/Kossi-stack/Mobile_Version_Skeleton)
+- GitHub: [@githubhandle](https://github.com/Kossi-stack/First-Capstone-Project)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/kossifioklou2406/)
 
 
@@ -44,11 +54,17 @@ To get a local copy up and running follow these simple example steps.
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Kossi-stack/Mobile_Version_Skeleton/issues).
+Feel free to check the [issues page](https://github.com/Kossi-stack/First-Capstone-Project/issues).
 
 ## Show your support
 
 Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- A spcial thanks to  "Creative Commons license of the design" for providing this design template used for this project.
+- A special thanks to Microverse for inspiring this project. 
+- Once again a big thanks to the Microverse Team for the incredible work.
 
 ## 📝 License
 
