@@ -1,99 +1,51 @@
 const speakers = [
   {
-    name: 'Amine Smahi',
+    name: 'Yochai Benkler',
     portfolio:
       'Brerkman Professor of Entrepreneurial Legal Studies at Harvard Law School',
     about:
-      'Benkler studies commons-based peer productionk, and published his serminal book The Wealth of Networks in 2006',
+      'Benkler studies commons-based peer production, and published his serminal book The Wealth of Networks in 2006',
     avatarURL: './assets/images/speaker1.png',
   },
   {
-    name: 'Kossi Fioklou',
+    name: 'Kilnam Chon',
     portfolio:
       'Brerkman Professor of Entrepreneurial Legal Studies at Harvard Law School',
     about:
-      'Benkler studies commons-based peer productionk, and published his serminal book The Wealth of Networks in 2006',
+      'Benkler studies commons-based peer production, and published his serminal book The Wealth of Networks in 2006',
     avatarURL: './assets/images/speaker2.png',
   },
   {
-    name: 'Adedamola Shittu',
+    name: 'SohYeong Noh',
     portfolio:
-      'Brerkman Professor of Entrepreneurial Legal Studies at Harvard Law School',
+      'Director of Art Center Nobi and a board member of CC Korea',
     about:
-      'Benkler studies commons-based peer productionk, and published his serminal book The Wealth of Networks in 2006',
+      'Benkler studies commons-based peer production, and published his serminal book The Wealth of Networks in 2006',
     avatarURL: './assets/images/speaker3.png',
   },
   {
-    name: 'Lilian Moraa',
+    name: 'Julia Leda',
     portfolio:
-      'Brerkman Professor of Entrepreneurial Legal Studies at Harvard Law School',
+      'President of Young Pirates of Europe',
     about:
-      'Benkler studies commons-based peer productionk, and published his serminal book The Wealth of Networks in 2006',
+      'European integration, polical democracy and participation of youth through online as the major conderm, Ledas report',
     avatarURL: './assets/images/speaker4.png',
   },
   {
-    name: 'Ali Abbani',
+    name: 'Lila Tretikov',
     portfolio:
-      'Brerkman Professor of Entrepreneurial Legal Studies at Harvard Law School',
+      'Executive Director of the Wikimedia Foundation',
     about:
-      'Benkler studies commons-based peer productionk, and published his serminal book The Wealth of Networks in 2006',
+      'The nonprofit organization that operates wikipedia Benkler studies commons-based peer production, and published his serminal book The Wealth of Networks in 2006',
     avatarURL: './assets/images/speaker5.png',
   },
   {
-    name: 'Daniel Matongo',
+    name: 'Ryan Merkley',
     portfolio:
-      'Brerkman Professor of Entrepreneurial Legal Studies at Harvard Law School',
+      'CEO of Creative Commons, COO of the Mozilla foundation',
     about:
-      'Benkler studies commons-based peer productionk, and published his serminal book The Wealth of Networks in 2006',
+      'Ryan had been leading open-source projects at the Mozilla foundation such as the open source movement',
     avatarURL: './assets/images/speaker6.png',
-  },
-  {
-    name: 'Ifionu Juliana',
-    portfolio:
-      'Brerkman Professor of Entrepreneurial Legal Studies at Harvard Law School',
-    about:
-      'Benkler studies commons-based peer productionk, and published his serminal book The Wealth of Networks in 2006',
-    avatarURL: './assets/images/profile.jpg',
-  },
-  {
-    name: 'Yaseer Okino',
-    portfolio:
-      'Brerkman Professor of Entrepreneurial Legal Studies at Harvard Law School',
-    about:
-      'Benkler studies commons-based peer productionk, and published his serminal book The Wealth of Networks in 2006',
-    avatarURL: './assets/images/profile.jpg',
-  },
-  {
-    name: 'Ruben Dario',
-    portfolio:
-      'Brerkman Professor of Entrepreneurial Legal Studies at Harvard Law School',
-    about:
-      'Benkler studies commons-based peer productionk, and published his serminal book The Wealth of Networks in 2006',
-    avatarURL: './assets/images/profile.jpg',
-  },
-  {
-    name: 'Robert Baiesita',
-    portfolio:
-      'Brerkman Professor of Entrepreneurial Legal Studies at Harvard Law School',
-    about:
-      'Benkler studies commons-based peer productionk, and published his serminal book The Wealth of Networks in 2006',
-    avatarURL: './assets/images/profile.jpg',
-  },
-  {
-    name: 'Rachid Boudaoudi',
-    portfolio:
-      'Brerkman Professor of Entrepreneurial Legal Studies at Harvard Law School',
-    about:
-      'Benkler studies commons-based peer productionk, and published his serminal book The Wealth of Networks in 2006',
-    avatarURL: './assets/images/profile.jpg',
-  },
-  {
-    name: 'Faizan Zahid',
-    portfolio:
-      'Brerkman Professor of Entrepreneurial Legal Studies at Harvard Law School',
-    about:
-      'Benkler studies commons-based peer productionk, and published his serminal book The Wealth of Networks in 2006',
-    avatarURL: './assets/images/profile.jpg',
   },
 ];
 
