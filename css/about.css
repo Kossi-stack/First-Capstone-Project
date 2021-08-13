@@ -494,11 +494,9 @@ h3 {
   }
 
   .rights {
-    background-color: #fff;
-    color: #272a31;
+    background-color:#272a31;
+    color: #fff;
     padding: 2% 15%;
-    box-sizing: border-box;
-    border: 0.2px solid;
   }
 
   .explanation {

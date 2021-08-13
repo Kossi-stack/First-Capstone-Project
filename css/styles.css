@@ -308,6 +308,8 @@ body * {
 }
 
 .footer {
+  background-color: #282b31;
+  color: #fff;
   margin: 0;
   padding: 0 0 30px;
 }
@@ -637,12 +639,12 @@ body * {
 
   .explanation {
     display: block;
-    max-width: 600px;
+    max-width: 1000px;
     margin-top: 20px;
   }
 
   .right {
-    margin-left: 50px;
+    margin-left: 60px;
   }
 
   .rights {
