@@ -311,7 +311,7 @@ body * {
   background-color: #282b31;
   color: #fff;
   margin: 0;
-  padding: 0 0 30px;
+  padding: 0 0 10px;
 }
 
 .partners {
@@ -351,7 +351,7 @@ body * {
   display: flex;
   align-items: center;
   justify-content: flex-start;
-  padding: 20px 10px;
+  padding: 10px 10px;
 }
 
 .explanation {
@@ -532,7 +532,7 @@ body * {
   }
 
   .partner-list {
-    margin: 20px 20%;
+    margin: 10px 20%;
   }
 
   .partner-list .partner img {
