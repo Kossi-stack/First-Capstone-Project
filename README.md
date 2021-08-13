@@ -11,7 +11,7 @@ This is a capstone project to showcase the skills acquired the last 4 weeks stud
 
 ## Live Demo
 
-[Live Demo Link](https://raw.githack.com/Kossi-stack/Mobile_Version_Skeleton/github-deployment/index.html)
+[Live Demo Link](https://kossi-stack.github.io/First-Capstone-Project/)
 [Watch a video here](https://www.loom.com/share/21e93a7e71f747dd86d1f2efbae818a3)
 
 ## Built With
