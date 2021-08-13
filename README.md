@@ -5,6 +5,7 @@
 > This project is to create a mobile and desktop version of an  online conference website.
 
 ![screenshot](assets/images/demo-mobile.JPG)
+
 ![screenshot](assets/images/demo-desktop.JPG)
 
 This is a capstone project to showcase the skills acquired the last 4 weeks studying HTML, CSS and DOM. The project is online conference website.
@@ -12,6 +13,7 @@ This is a capstone project to showcase the skills acquired the last 4 weeks stud
 ## Live Demo
 
 [Live Demo Link](https://kossi-stack.github.io/First-Capstone-Project/)
+
 [Watch a video here](https://www.loom.com/share/21e93a7e71f747dd86d1f2efbae818a3)
 
 ## Built With
