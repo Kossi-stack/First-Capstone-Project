@@ -5,6 +5,9 @@ html {
   color: #272a31;
   font-family: sans-serif;
   font-size: initial;
+  background-image: url(../assets/images/first-bckgrd-img.jpg);
+  background-size: 100%;
+  background-repeat: no-repeat;
 }
 
 body * {

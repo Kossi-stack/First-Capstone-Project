@@ -65,6 +65,7 @@ h3 {
 .intro-main-page {
   background-image: url(../assets/images/secd-bgrd-img.jpg);
   background-size: 100% 100%;
+  background-repeat: no-repeat;
 }
 
 .fa-bars,
@@ -72,6 +73,10 @@ h3 {
   display: block;
   padding: 15px 0 50px 15px;
   font-size: 2rem;
+  background-image: url(../assets/images/secd-bgrd-img.jpg);
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  color: #fff;
 }
 
 .hello,
@@ -489,9 +494,11 @@ h3 {
   }
 
   .rights {
-    background-color: #272a31;
-    color: #fff;
+    background-color: #fff;
+    color: #272a31;
     padding: 2% 15%;
+    box-sizing: border-box;
+    border: 2px solid;
   }
 
   .explanation {
