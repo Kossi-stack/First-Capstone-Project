@@ -1,7 +1,7 @@
 const speakers = [
   {
     name: 'Yochai Benkler',
-    portfolio:
+    profile:
       'Brerkman Professor of Entrepreneurial Legal Studies at Harvard Law School',
     about:
       'Benkler studies commons-based peer production, and published his serminal book The Wealth of Networks in 2006',
@@ -9,7 +9,7 @@ const speakers = [
   },
   {
     name: 'Kilnam Chon',
-    portfolio:
+    profile:
       'Brerkman Professor of Entrepreneurial Legal Studies at Harvard Law School',
     about:
       'Benkler studies commons-based peer production, and published his serminal book The Wealth of Networks in 2006',
@@ -17,7 +17,7 @@ const speakers = [
   },
   {
     name: 'SohYeong Noh',
-    portfolio:
+    profile:
       'Director of Art Center Nobi and a board member of CC Korea',
     about:
       'Benkler studies commons-based peer production, and published his serminal book The Wealth of Networks in 2006',
@@ -25,7 +25,7 @@ const speakers = [
   },
   {
     name: 'Julia Leda',
-    portfolio:
+    profile:
       'President of Young Pirates of Europe',
     about:
       'European integration, polical democracy and participation of youth through online as the major conderm, Ledas report',
@@ -33,7 +33,7 @@ const speakers = [
   },
   {
     name: 'Lila Tretikov',
-    portfolio:
+    profile:
       'Executive Director of the Wikimedia Foundation',
     about:
       'The nonprofit organization that operates wikipedia Benkler studies commons-based peer production, and published his serminal book The Wealth of Networks in 2006',
@@ -41,7 +41,7 @@ const speakers = [
   },
   {
     name: 'Ryan Merkley',
-    portfolio:
+    profile:
       'CEO of Creative Commons, COO of the Mozilla foundation',
     about:
       'Ryan had been leading open-source projects at the Mozilla foundation such as the open source movement',
@@ -86,7 +86,7 @@ const displaySpeakers = (speaker, index) => {
 
   const p1 = document.createElement('p');
   p1.setAttribute('class', 'profile');
-  p1.textContent = speaker.portfolio;
+  p1.textContent = speaker.profile;
   div2.appendChild(p1);
 
   const hr = document.createElement('hr');
